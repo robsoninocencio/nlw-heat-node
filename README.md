@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
-## ![image](https://user-images.githubusercontent.com/4238705/156977244-908abb64-4e3d-4774-ab43-9fbc2aea780a.png)
+### ![image](https://user-images.githubusercontent.com/4238705/156977244-908abb64-4e3d-4774-ab43-9fbc2aea780a.png)
 
 Impulse: https://efficient-sloth-d85.notion.site/Impulse-240cb588fb8d4089917c7a6cef0008b3
 
